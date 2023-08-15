@@ -18,7 +18,7 @@
 - 👨‍💻 Some of my projects are available at my <a href="https://github.com/Aditya-dnvks?tab=repositories">**Github**</a>
 - 💬 Free feel to Ask me about anything, I am Happy to Help  you ☺
 - 📫 How to reach me: **aditya.dnvks@gmail.com**
--  **Contact No**: 9347542642
+- 📫 Contact No: **9347542642**
 - 😄 Pronouns: Full Stack Developer
 
 # Skills:
