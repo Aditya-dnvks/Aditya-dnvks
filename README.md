@@ -9,8 +9,9 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Aditya </h1>
 <h3 align="center">I Enjoy Developing ideas that live on the internet, whether that be a website, application or anything related.</h3>
 
-  <p>I'm Aditya Dasari, from Vijayawada, Andhra Pradesh. My goal is to develop products that provide a performant, responsive experience. I have completed B.Tech in Civil Engineering branch from National Institute of Technology Andhra Pradesh (2017-2021 batch). I Resigned as Qulaity Assurance Engineer in KEC International limited to pursue my interest in Full Stack development. I am a Tech-Enthusiast, I love to build Full stack Applications and currently focusing on React, and Frontend Frameworks. </p>
-# Talking about Personal kinds of Stuff:
+<p> I'm Aditya Dasari, from Vijayawada, Andhra Pradesh. My goal is to develop products that provide a performant, responsive experience. I have completed B.Tech in Civil Engineering branch from National Institute of Technology Andhra Pradesh (2017-2021 batch). I Resigned as Qulaity Assurance Engineer in KEC International limited to pursue my interest in MERN Full Stack development. I am a Tech-Enthusiast, I love to build Full stack Applications and currently focusing on React, and Frontend Frameworks. </p>
+  
+# Talking about Personal kind of Stuff:
 
 - 👨🏽‍💻 I’m currently working on **Full Stack Development**
 - 🌱 I’m currently learning **Java**, **DSA**, **React**, **Frontend Design**
@@ -19,7 +20,7 @@
 - 💬 Free feel to Ask me about anything, I am Happy to Help  you ☺
 - 📫 How to reach me: **aditya.dnvks@gmail.com**
 - 📫 Contact No: **9347542642**
-- 😄 Pronouns: Full Stack Developer
+- 😄 Pronouns: MERN Full Stack Developer
 
 # Skills:
 ## 🚀 Languages
@@ -36,6 +37,9 @@
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
+    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
+    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/express.png"/> </a> 
+     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/sql.png"/> </a> 
     <a style="padding-right:8px;" href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
 
