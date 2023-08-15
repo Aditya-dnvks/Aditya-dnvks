@@ -9,7 +9,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Aditya </h1>
 <h3 align="center">I Enjoy Developing ideas that live on the internet, whether that be a website, application or anything related.</h3>
 
-  <p>I'm Aditya Dasari, based in Andhra Pradesh. My goal is to develop products that provide a performant, responsive experience. I have completed B.Tech in Civil Engineering from National Institute of Technology Andhra Pradesh.  I am a Tech-Enthusiast, I love to build Full stack Applications and currently focusing on React, and Frontend Frameworks. </p>
+  <p>I'm Aditya Dasari, from Vijayawada, Andhra Pradesh. My goal is to develop products that provide a performant, responsive experience. I have completed B.Tech in Civil Engineering branch from National Institute of Technology Andhra Pradesh (2017-2021 batch). I Resigned as Qulaity Assurance Engineer in KEC International limited to pursue my interest in Full Stack development. I am a Tech-Enthusiast, I love to build Full stack Applications and currently focusing on React, and Frontend Frameworks. </p>
 # Talking about Personal kinds of Stuff:
 
 - 👨🏽‍💻 I’m currently working on **Full Stack Development**
