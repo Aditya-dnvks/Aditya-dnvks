@@ -65,6 +65,7 @@ Thank you so much for visiting my tiny space on [GitHub](https://github.com/Adit
 <br>
 <hr>
 <div align="center"> 
+  
  ![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aditya-dnvks&show_icons=true&theme=radical)
 </div>
  <p><img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" /></p>
